@@ -1,4 +1,4 @@
-![](.\readme\logo.png)
+![](/readme/logo.png)
 
 This repository contains the complete project files and code in order to build Darius Editor. All files contained are left as-is at the time of the project's completion and exist to serve as an archive of sorts - <b> Please do not send pull requests to this repository! </b>
 
@@ -26,6 +26,6 @@ This program also uses assets from the original [Destruction Darius](https://gam
 
 <h1> Screenshots </h1>
 
-![](.\readme\demo0.png)
-![](.\readme\demo1.png)
-![](.\readme\demo2.png)
+![](/readme/demo0.png)
+![](/readme/demo1.png)
+![](/readme/demo2.png)
